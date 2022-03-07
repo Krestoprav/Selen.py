@@ -1,0 +1,1 @@
+C:\Python310\python.exe C:\Users\User\Desktop\Python\Vikypi\xls_to_xlsx.py %*
