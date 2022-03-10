@@ -269,6 +269,7 @@ def lalala(message):
             bot.send_message(message.chat.id, 'Непонятно! Выбирай из того что есть! Жми кнопку!')
 
 
+
 def get_data_1(message):  # Получаем первую дату
     global nachaloPeriodaPodscheta
     nachaloPeriodaPodscheta = message.text
