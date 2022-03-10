@@ -1,0 +1,1 @@
+C:\Python38\python.exe C:\Users\User\Desktop\Python\Selenium\liveinform\Vigryz_vrych.py %*
