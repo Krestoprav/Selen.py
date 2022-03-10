@@ -1,1 +1,0 @@
-C:\Python310\python.exe C:\Users\User\Desktop\Python\Zamena\Zamena_V2.py %*
